@@ -1,0 +1,5 @@
+D:\Curso generation\List8\Queue8\obj\Debug\net5.0\Queue8.csproj.AssemblyReference.cache
+D:\Curso generation\List8\Queue8\obj\Debug\net5.0\Queue8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\List8\Queue8\obj\Debug\net5.0\Queue8.AssemblyInfoInputs.cache
+D:\Curso generation\List8\Queue8\obj\Debug\net5.0\Queue8.AssemblyInfo.cs
+D:\Curso generation\List8\Queue8\obj\Debug\net5.0\Queue8.csproj.CoreCompileInputs.cache

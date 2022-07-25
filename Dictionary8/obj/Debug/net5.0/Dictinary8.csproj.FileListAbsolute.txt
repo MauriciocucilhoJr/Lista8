@@ -1,0 +1,16 @@
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.exe
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.deps.json
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.runtimeconfig.json
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.runtimeconfig.dev.json
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.dll
+D:\Curso generation\List8\Dictionary8\bin\Debug\net5.0\Dictinary8.pdb
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.csproj.AssemblyReference.cache
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.AssemblyInfoInputs.cache
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.AssemblyInfo.cs
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.csproj.CoreCompileInputs.cache
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.dll
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\refint\Dictinary8.dll
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.pdb
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\Dictinary8.genruntimeconfig.cache
+D:\Curso generation\List8\Dictionary8\obj\Debug\net5.0\ref\Dictinary8.dll

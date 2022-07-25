@@ -1,0 +1,16 @@
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.csproj.AssemblyReference.cache
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.AssemblyInfoInputs.cache
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.AssemblyInfo.cs
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.csproj.CoreCompileInputs.cache
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.exe
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.deps.json
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.runtimeconfig.json
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.runtimeconfig.dev.json
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.dll
+D:\Curso generation\List8\Stack8\Stack8\bin\Debug\net5.0\Stack8.pdb
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.dll
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\refint\Stack8.dll
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.pdb
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\Stack8.genruntimeconfig.cache
+D:\Curso generation\List8\Stack8\Stack8\obj\Debug\net5.0\ref\Stack8.dll
